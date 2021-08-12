@@ -8,5 +8,6 @@ namespace Arq.BD
 {
     class modificaciones
     {
+        private int numero = 0;
     }
 }
