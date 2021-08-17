@@ -8,5 +8,9 @@ namespace Arq.Repositorio.Repositorios
 {
     public class ProvinciasController
     {
+        public ProvinciasController()
+        {
+
+        }
     }
 }
