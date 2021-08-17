@@ -8,5 +8,14 @@ namespace Arq.Repositorio.Repositorios
 {
     public class sergio
     {
+        public sergio()
+        {
+
+        }
+        public void Pepe()
+        {
+
+        }
     }
+
 }
