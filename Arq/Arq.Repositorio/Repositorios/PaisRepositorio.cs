@@ -8,5 +8,9 @@ namespace Arq.Repositorio.Repositorios
 {
     public class PaisRepositorio
     {
+        public PaisRepositorio()
+        {
+
+        }
     }
 }
