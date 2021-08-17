@@ -18,4 +18,19 @@ namespace Arq.Repositorio.Repositorios
         }
     }
 
+        private int myVar;
+        private readonly int arg;
+
+        public int MyProperty
+        {
+            get { return myVar; }
+            set { myVar = value; }
+        }
+
+        public sergio(int arg)
+        {
+            this.arg = arg;
+        }
+
+    }
 }
